@@ -108,7 +108,7 @@ Continued growth isntial growth expected, driven increasingly by AI itself.
 
 **AI free courses**
 
-[[Artificial Intelligence Tutorial for Beginners | Edureka](https://youtu.be/JMUxmLyrhSk?si=B_nAJhqo7mw8dGKJ)
+[Artificial Intelligence Tutorial for Beginners | Edureka](https://youtu.be/JMUxmLyrhSk?si=B_nAJhqo7mw8dGKJ)
 
 [Machine Learning full course | Codewithsagar](https://youtu.be/ie4oGI85SAE?si=YmBflmEiSC08lFwn)
 
