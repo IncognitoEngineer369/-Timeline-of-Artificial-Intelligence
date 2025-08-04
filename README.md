@@ -1,4 +1,4 @@
-# -Timeline-of-Artificial-Intelligence
+# Timeline-of-Artificial-Intelligence
 Artificial Intelligence (AI) is reshaping cyber security at unprecedented speeds.  Understanding its historical milestones is interesting!.
 
 **_Here is the Timeline of artificial intelligence._**
