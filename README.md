@@ -107,10 +107,16 @@ Continued growth isntial growth expected, driven increasingly by AI itself.
 ​Example: Initiate AI-driven projects or propose improvements leveraging AI.
 
 **AI free courses**
+
 [[Artificial Intelligence Tutorial for Beginners | Edureka](https://youtu.be/JMUxmLyrhSk?si=B_nAJhqo7mw8dGKJ)
+
 [Machine Learning full course | Codewithsagar](https://youtu.be/ie4oGI85SAE?si=YmBflmEiSC08lFwn)
+
 [Gen AI Basic](https://youtu.be/d4yCWBGFCEs?si=SK0-SwomezgU3NNi)
+
 [AI with Python](https://youtu.be/5NgNicANyqM?si=INLfBDmDFUZo0g6j)
+
 [AI engineer Roadmap](https://roadmap.sh/ai-engineer)
+
 
 [Linkedin](https://www.linkedin.com/in/pradeep-prajapati-123626350/)
