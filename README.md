@@ -106,7 +106,7 @@ Continued growth isntial growth expected, driven increasingly by AI itself.
 ​Action: Innovate using AI in your current role.
 ​Example: Initiate AI-driven projects or propose improvements leveraging AI.
 
-**AI free courses**
+# **AI free courses**
 
 [Artificial Intelligence Tutorial for Beginners | Edureka](https://youtu.be/JMUxmLyrhSk?si=B_nAJhqo7mw8dGKJ)
 
