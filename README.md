@@ -105,6 +105,22 @@ Continued growth isntial growth expected, driven increasingly by AI itself.
 **💼 Think Like an Entrepreneur**
 ​Action: Innovate using AI in your current role.
 ​Example: Initiate AI-driven projects or propose improvements leveraging AI.
+# AI ROLES YOU'LL SEE IN 2025
+| Role                | Description                                                       | Availability  |
+|---------------------|-------------------------------------------------------------------|---------------|
+| Prompt Engineer      | Designs prompts that guide generative AI to reliable, useful output. | Now           |
+| AI Translator        | Turns business needs into clear AI tasks and metrics for teams.     | Now           |
+| Model Validator      | Tests models for errors, bias, safety, and reliability before launch. | Emerging       |
+
+# AI + SECURITY ROLES THAT MATTER
+
+| Role                     | Description                                                       | Availability  |
+|--------------------------|-------------------------------------------------------------------|---------------|
+| AI Security Engineer      | Builds and tunes AI defenses against phishing, malware, and fraud. | Now           |
+| AI Threat Analyst         | Uses AI to spot patterns in logs and predict attacks.              | Now           |
+| AI Security Architect      | Designs secure pipelines for data, models, and agents in large deployments. | Emerging       |
+| Ethical AI Auditor        | Checks AI use for fairness, privacy, and compliance across teams.  | Now           |
+| AI Forensics Specialist   | Investigates incidents involving AI models, agents, and poisoned data. | Future         |
 
 # **AI free courses**
 
