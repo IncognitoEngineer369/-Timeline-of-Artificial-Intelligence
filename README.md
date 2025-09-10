@@ -123,7 +123,7 @@ Continued growth isntial growth expected, driven increasingly by AI itself.
 | AI Forensics Specialist   | Investigates incidents involving AI models, agents, and poisoned data. | Future         |
 
 # **AI free courses**
-
+[Prompt Engineering](https://www.promptingguide.ai/))
 [Artificial Intelligence Tutorial for Beginners | Edureka](https://youtu.be/JMUxmLyrhSk?si=B_nAJhqo7mw8dGKJ)
 
 [Machine Learning full course | Codewithsagar](https://youtu.be/ie4oGI85SAE?si=YmBflmEiSC08lFwn)
