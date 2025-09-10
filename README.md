@@ -135,4 +135,4 @@ Continued growth isntial growth expected, driven increasingly by AI itself.
 [AI engineer Roadmap](https://roadmap.sh/ai-engineer)
 
 
-[Linkedin](https://www.linkedin.com/in/pradeep-prajapati-123626350/)
+
